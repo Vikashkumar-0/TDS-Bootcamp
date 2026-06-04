@@ -21,7 +21,7 @@ I learned how the shell works, how PATH helps the shell find commands, how to na
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-I request TA Team to take good session bootcamp session 2 was bery bad. It was like they are practice for them self.
+I request TA Team to take good session bootcamp session 2 was very bad. It was like they are practice for them self.
 ---
 
 ---
