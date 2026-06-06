@@ -28,6 +28,23 @@ The hands-on exercises were useful for understanding APIs and HTTP concepts. The
 
 ---
 
+You can write your personal notes here; they will not be parsed and are for your own reference.
 
+* Difference between PUT and PATCH:
+
+  * PUT replaces the entire resource.
+  * PATCH updates only specific fields.
+
+* Common status codes:
+
+  * 200 OK
+  * 201 Created
+  * 400 Bad Request
+  * 401 Unauthorized
+  * 403 Forbidden
+  * 404 Not Found
+  * 500 Internal Server Error
+
+* FastAPI automatically generates interactive API documentation at /docs.
 
 * curl is useful for testing APIs without a browser.
